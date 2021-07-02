@@ -1,14 +1,16 @@
 {
-      "name": "YoneRobot",
+      "name": "Kakashi RoBot",
       "description": "Telegram group management bot.",
+      "logo": "https://telegra.ph/file/bf975a8c78216014b172e.jpg", 
       "keywords": [
          "telegram",
          "anime",
          "group",
          "manager",
-         "yone"
+         "kakashi"
       ],   
-   "repository": "https://t.me/itsMeLegend",
+     
+   "repository": "https://t.me/Its_JassManak",
    "addons": [
       {
          "options": {
@@ -104,9 +106,9 @@
         "required": false
       },
       "DEV_USERS": {
-         "description": "ID of users who are Devs of your bot (can use /py etc.). If you are a noob and would come and bother Masha support then keep the current ID's here at they are and add yours.",
+         "description": "ID of users who are Devs of your bot (can use /py etc.). If you are a noob and would come and bother Kakashi support then keep the current ID's here at they are and add yours.",
          "required": false,
-         "value": "1665347268"
+         "value": "1883752632"
       },
       "sw_api": {
          "description": "Spamwatch API Token, Get one from @SpamWatchBot.",
@@ -120,22 +122,22 @@
       "DRAGONS": {
          "description": "A space separated list of user IDs who you want to assign as sudo users.",
          "required": false,
-         "value": ""
+         "value": "1883752632"
       },
       "DEMONS": {
          "description": "A space separated list of user IDs who you wanna assign as support users(gban perms only).",
          "required": false,
-         "value": ""
+         "value": "1883752632"
       },
       "TIGERS": {
          "description": "A space separated list of user IDs who you wanna assign as tiger users.",
          "required": false,
-         "value": ""
+         "value": "1883752632"
       },
       "WOLVES": {
          "description": "A space separated list of user IDs who you want to assign as whitelisted - can't be banned with your bot.",
          "required": false,
-         "value": ""
+         "value": "1883752632"
       },
       "ENV": {
          "description": "Setting this to ANYTHING will enable environment variables. Leave it as it is",
@@ -173,7 +175,7 @@
       "DONATION_LINK": {
          "description": "Optional: link where you would like to receive donations. If you are a noob, better leave it linking to paul",
          "required": false,
-         "value": "https://www.paypal.me/PaulSonOfLars"
+         "value": "No Need.."
       },
       "DEL_CMDS": {
          "description": "Set this to True if you want to delete command messages from users who don't have the perms to run that command.",
