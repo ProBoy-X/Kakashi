@@ -74,7 +74,7 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-Hᴏɪɪ ʙʀᴜʜ.. I'ᴍ ᴋᴀᴋᴀsʜɪ ʜᴀᴛᴀᴋᴇ..ᴀɴ ᴀᴍᴀᴢɪɴɢ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ғᴏʀ ᴍᴀɴᴀɢɪɴɢ ʏᴏᴜʀ ɢʀᴏᴜᴘs..[😉](https://telegra.ph/file/95a8d8b221d77f3af97af.jpg)
+Hᴏɪɪ ʙʀᴜʜ.. I'ᴍ ᴋᴀᴋᴀsʜɪ ʜᴀᴛᴀᴋᴇ..ᴀɴ ᴀᴍᴀᴢɪɴɢ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ғᴏʀ ᴍᴀɴᴀɢɪɴɢ ʏᴏᴜʀ ɢʀᴏᴜᴘs..[😉](https://telegra.ph/file/ac9a5c9419c9013663d62.jpg)
 
 Jᴜsᴛ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘs.. ɢɪʙ ᴀᴅᴍɪɴ ᴘᴏᴡᴇʀ ᴀɴᴅ ᴛʜᴇɴ sᴇᴇ..
 
@@ -99,10 +99,10 @@ buttons = [
 
 
 HELP_STRINGS = """
-ʜɪʏᴏᴏᴏ.. ɪᴛ's ʏᴏᴜʀ [ᴋᴀᴋᴀsʜɪ](https://telegra.ph/file/95a8d8b221d77f3af97af.jpg) ʜᴇʀᴇ.
+ʜɪʏᴏᴏᴏ.. ɪᴛ's ʏᴏᴜʀ [ᴋᴀᴋᴀsʜɪ](https://telegra.ph/file/ac9a5c9419c9013663d62.jpg) ʜᴇʀᴇ.
 ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴꜱ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴅᴏᴄᴜᴍᴇɴᴛᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ꜱᴘᴇᴄɪꜰɪᴄ ᴍᴏᴅᴜʟᴇꜱ.."""
 
-yone_IMG = "https://telegra.ph/file/95a8d8b221d77f3af97af.jpg"
+yone_IMG = "https://telegra.ph/file/ac9a5c9419c9013663d62.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate! Actually I don't need money..
  You can support us by promoting our bot.. \
