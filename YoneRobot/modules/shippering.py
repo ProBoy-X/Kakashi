@@ -45,9 +45,9 @@ async def couple(_, message):
             c1_mention = (await app.get_users(c1_id)).mention
             c2_mention = (await app.get_users(c2_id)).mention
 
-            couple_selection_message = f"""**Cᴏᴜᴘʟᴇ ᴏғ ᴛʜᴇ ᴅᴀʏ ʜᴀs ʙᴇᴇɴ ᴄʜᴏᴏsᴇɴ.🥳🥳**
+            couple_selection_message = f"""**Couples of the day has been choosen. 🥳🥳**
 {c1_mention} + {c2_mention} = ❤️
-__Nᴇᴡ ᴄᴏᴜᴘʟᴇ ᴏғ ᴛʜᴇ ᴅᴀʏ ᴍᴀʏ ʙᴇ ᴄʜᴏsᴇɴ ᴀᴛ 12AM😉
+__New couple of the day may be choosen at 12AM 😉
 
  {tomorrow}__"""
             await app.send_message(
