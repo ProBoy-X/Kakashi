@@ -9,7 +9,7 @@ import wget
 from pyrogram import filters
 from pyrogram.types import Message
 from tswift import Song
-from youtube_dl import YoutubeDL
+from putube import iytdl
 from youtubesearchpython import SearchVideos
 
 from YoneRobot.conf import get_str_key
