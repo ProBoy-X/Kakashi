@@ -69,12 +69,12 @@ RUN git clone -b shiken https://github.com/noob-kittu/YoneRobot /root/YoneRobot
 WORKDIR /root/YoneRobot
 
 #Copy config file to /root/YoneRobot/YoneRobot
-COPY ./YoneRobot/sample_config.py ./YoneRobot/config.py* /root/YoneRobot/YoneRobot/
-
-ENV PATH="/home/bot/bin:$PATH"
 
 # Install requirements
+COPY requirements.txt .
 RUN pip3 install -U -r requirements.txt
 
 # Starting Worker
+COPY . .
+
 CMD ["python3","-m","YoneRobot"]
